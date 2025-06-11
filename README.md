@@ -34,3 +34,7 @@ This Android application fetches a list of countries from a remote JSON URL, dis
 
 
 ![image](https://github.com/user-attachments/assets/f3557fe3-9b55-4731-98eb-f9d2b51edef9)
+
+
+https://github.com/user-attachments/assets/d4e17400-bbbb-4fd6-bab3-0783bd2aeba4
+
